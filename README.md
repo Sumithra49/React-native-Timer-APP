@@ -3,7 +3,7 @@
 
 A beautiful and fully-featured timer application built with React Native and Expo. Manage multiple timers, organize them by categories, and track your completed sessions with an intuitive interface.
 
-![Timer App Screenshot](https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
 
 ## Features
 
@@ -18,18 +18,14 @@ A beautiful and fully-featured timer application built with React Native and Exp
 
 ## Getting Started
 
-### Prerequisites
 
-- Node.js (v18 or newer)
-- npm or yarn
-- Expo CLI
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/timer-app.git
+git clone https://github.com/Sumithra49/React-native-Timer-APP.git
 ```
 
 2. Install dependencies:
@@ -41,7 +37,7 @@ npm install
 3. Start the development server:
 
 ```bash
-npm run dev
+npx expo start --web
 ```
 
 ## Usage
@@ -81,20 +77,21 @@ npm run dev
 - AsyncStorage
 - Lucide Icons
 
-## Contributing
+# ui
+![image](https://github.com/user-attachments/assets/b32ea586-3eee-4bed-8a54-d55832a3c6ee)
+# Add timer
+![image](https://github.com/user-attachments/assets/3bfd6616-ada0-431a-83ec-6257c1dfd0a1)
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+# History screen
+![image](https://github.com/user-attachments/assets/b9b63799-ebf2-4a31-8251-0ddca4bdc30c)
+# when added the timer the UI showing like these
+![image](https://github.com/user-attachments/assets/43e2573a-2058-4517-89f6-a84c44c9209c)
+# when timer is started
+![image](https://github.com/user-attachments/assets/cf77b47d-b5dc-4e28-88a7-20756351fec1)
+# timer is completed
+![image](https://github.com/user-attachments/assets/05cd5335-1e87-44b6-9e8d-91b466070036)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/user-attachments/assets/8a2e56d1-1272-4b84-9688-8f0c36e63cca)
 
-## Acknowledgments
 
-- Design inspired by modern timer applications
-- Built with Expo's managed workflow
-- Icons provided by Lucide
